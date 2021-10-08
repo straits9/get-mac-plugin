@@ -3,7 +3,7 @@ description: A new Flutter plugin to get MAC Address of Android and iOS Device
 
 publish_to: 'none'
 
-version: 0.0.1-post
+version: 0.0.2
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
